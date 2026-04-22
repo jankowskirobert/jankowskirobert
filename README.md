@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 everything is AI now so do I. Big fan of Claude.
-- 💬 Ask me about ..... No, don't do it, ask some LLMs they have an answares.
+- 💬 Ask me about ..... No, don't do it, ask some LLMs instead.
 - 📫 How to reach me: jankowski.r@hotmail.com
 - ⚡ Fun fact: Better tune your LLM before use. 
