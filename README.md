@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning AWS, Python and some random FP languages
-- 💬 Ask me about ...
+- 🌱 everything is AI now so do I. Big fun of Claude.
+- 💬 Ask me about ..... No, don't do it, ask some LLMs they have an answares.
 - 📫 How to reach me: jankowski.r@hotmail.com
-- ⚡ Fun fact: Fingernails are actually modified hairs, structurally speaking. They are made of the same material.
+- ⚡ Fun fact: Better tune your LLM before use. 
